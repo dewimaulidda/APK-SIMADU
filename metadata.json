@@ -1,0 +1,6 @@
+{
+  "name": "SIMADU - Sistem Informasi Pelayanan Administrasi Desa Madusari",
+  "description": "Pelayanan Administrasi Surat Mandiri & Cepat untuk Masyarakat Desa Madusari dengan Verifikasi Digital, Otorisasi Sekdes/Kaur, dan Cetak PDF Resmi ber-QR Code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
